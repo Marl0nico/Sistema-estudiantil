@@ -28,11 +28,10 @@ public class Sistema {
     public double getNota() {
         return nota;
     }
-
     public void setNota(double nota) {
         this.nota = nota;
     }
-    public void mostrarDatos(){
-        System.out.println("Nombre:"+getNombre()+"  Materia:"+getMateria()+"    Nota:"+getNota());
+    public void mostrarDatos() {
+        System.out.println("Nombre:" + getNombre() + "  Materia:" + getMateria() + "    Nota:" + getNota());
     }
 }
