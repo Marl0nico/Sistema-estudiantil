@@ -7,9 +7,6 @@ public class Main {
         Sistema estudiante2 = new Sistema("Luis","Matematicas",8.75);
         Sistema estudiante3 = new Sistema("Mario","Lenguaje",7.02);
         Sistema estudiante4 = new Sistema("Mario","Ingles",9.24);
-        //mas cambios
         estudiante1.mostrarDatos();
-
-
     }
 }
